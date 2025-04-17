@@ -1,0 +1,14 @@
+{
+    "multiply_numbers": {
+        "module": "math_tools",
+        "description": "Multiplies two numbers. Arguments: num1 (required), num2 (required).",
+        "memory": true,
+        "agent": ["Finance"]
+    },
+    "divide_numbers": {
+        "module": "math_tools",
+        "description": "Divides two numbers. Arguments: num1 (required), num2 (required).",
+        "memory": true,
+        "agent": ["Finance"]
+    }
+}

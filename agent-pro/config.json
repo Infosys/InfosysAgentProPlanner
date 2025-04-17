@@ -1,0 +1,14 @@
+{
+    "api_key": "",
+    "endpoint": "",
+    "model_deployment_name": "gpt-4o",
+    "tools_directory": "tools",
+    "tool_config_file": "tools.json",
+    "feedback_log_directory": "feedback_logs",
+    "instruction_embeddings_file": "instruction_embeddings.pkl",
+    "gemini_api_key": "None", 
+    "gemini_model_name": "None",
+    "default_llm": "azure_openai"
+
+}
+
