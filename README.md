@@ -1,2 +1,2 @@
-# InfosysAgentProPlanner
-Infosys AgentPro Planner is an agentic AI framework component designed for creating detailed plan using LLM brain for the given goal. The plan will be further taken by other components for reasoning and execution as part of autonomous system
+# InfosysAgentPro
+Infosys AgentProp is pro-code agentic AI framework component designed for creating detailed plan using LLM brain for the given goal, and executing them in reliable manner with optional "Human-in-the-loop" feedback mechanism. This is designed for Enterprise Use cases where reliability of agents is of atmost importance. This serves as base reference framework to be customized for various agentic architectures.
