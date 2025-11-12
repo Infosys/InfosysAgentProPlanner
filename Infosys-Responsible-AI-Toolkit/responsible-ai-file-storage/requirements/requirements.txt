@@ -1,0 +1,13 @@
+fastapi==0.115.11
+cvxpy
+uvicorn 
+pyyaml
+python-multipart
+BlackBoxAuditing
+python-dotenv
+joblib
+pyarrow
+azure-storage-blob 
+azure-identity
+google-cloud-storage
+boto3

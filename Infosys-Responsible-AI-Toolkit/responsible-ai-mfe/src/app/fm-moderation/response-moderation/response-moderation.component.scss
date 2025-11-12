@@ -1,0 +1,68 @@
+.first-column {
+    width: 45%;
+    text-align: left !important;
+}
+
+.tableResponse {
+    width: 100%;
+    color: #7E7E7E;
+    font-size: 12px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+
+    tr {
+        padding: 5px 0px;
+
+        td {
+            padding-right: 8px;
+            text-align: center;
+        }
+    }
+}
+
+.mainLabel {
+    color: #7E7E7E;
+    padding: 0px;
+    font-weight: 500;
+    font-size: 13px;
+    font-family: 'Segoe UI';
+}
+
+.cdk-overlay-backdrop.custom-backdrop {
+    background: rgba(0, 0, 0, 0.6);
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.popupLink {
+    color: #8626C3;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.HeadingLabel {
+    color: #7E7E7E;
+    padding: 5px 0px;
+    margin-bottom: 0px;
+    font-weight: 600;
+    font-size: 11px;
+    margin-right: 1.7rem;
+    font-family: 'Segoe UI';
+    text-transform: uppercase;
+    transition: color 0.3s ease;
+}
+
+.activeTab {
+    color: #8626C3;
+    position: relative;
+}
+
+.activeTab::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    /* width: 35%; */
+    border-bottom: 2px solid #8626C3;
+}
